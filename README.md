@@ -36,7 +36,7 @@ NLTK
 </p>
 
 
-<h3><i>Interested on my top projects? <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
+<h3><i>Interested in my top projects? <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
 <p align="left">
 <a href="https://www.youtube.com/watch?v=QVop5w4hkmg" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=ALEX&color=1a78f4&logo=Probot&logoColor=FFFFFF&label=" alt="Lybrate" /></a> 
 <a href="https://youtube.com/shorts/iFf417xpYAM?feature=share" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bionics&color=E60012&logo=Ionic&logoColor=FFFFFF&label=" alt="Lybrate" /></a> 
